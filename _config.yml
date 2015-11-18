@@ -1,0 +1,23 @@
+name: appliant
+favicon: null
+layout_spectrum: 0.45507952896878123
+typography_spectrum: 0.45536782359704375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.25949362269602716
+  lightness: 0.06751065794378519
+  saturation: 0.6132258686702698
+  rhythmicContrast: 0.26444927346892655
+purpose: []
